@@ -1,4 +1,4 @@
-# COGS18_Project
+# COGS18  Final Project
 My final project for COGS 18
 This repository contains my final project for COGS 18.
 The goal of this project was to create a simple encrypt/decrypt tool for use on any file type.
